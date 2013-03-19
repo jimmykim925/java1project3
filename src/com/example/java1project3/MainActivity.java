@@ -1,3 +1,7 @@
+// Jimmy Kim
+// Java 1 Project 3
+// Term 1303
+
 package com.example.java1project3;
 
 import java.net.MalformedURLException;
